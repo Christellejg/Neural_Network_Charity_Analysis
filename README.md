@@ -9,5 +9,5 @@ The columns EIN and NAME were dropped.The target for our deep learning neural ne
 ### Compiling, Training, and Evaluating the Model
 This model has two hidden layers with many neurons. The model accuracy is 73%. This is lower than the 75% I was tasked to receive so it doesnt really give me a good prediction on the outcome of the charity donations. Applying the feature ASK_AMT would have helped increased the number of neurons on a of hidden layers, making it a three hidden layers model.
 
-### Summary
+## Summary
 Unfortuantely, with this model, I did not reach our target of 75% accuracy, instead it was 73%. Probably, usnig another model such as: Random Forest model, would have been a better machine learning model to use for this analysis.
